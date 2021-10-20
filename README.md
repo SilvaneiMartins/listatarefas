@@ -34,7 +34,7 @@ Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/SilvaneiMartins/listatarefas.git
+$ git clone https://github.com/SilvaneiMartins/listatarefas
 
 # Go into the repository
 $ cd listatarefas
@@ -47,7 +47,7 @@ $ yarn start
 ```
 
 ## :memo: License
-Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/listatarefas.git/blob/master/LICENSE) for more information.
+Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/listatarefas/blob/master/LICENSE) for more information.
 
 ---
 
