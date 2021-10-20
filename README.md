@@ -37,7 +37,7 @@ Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.
 $ git clone https://github.com/SilvaneiMartins/listatarefas.git
 
 # Go into the repository
-$ cd clone-twiter
+$ cd listatarefas
 
 # Install dependencies
 $ yarn install
